@@ -1,9 +1,9 @@
 {
-  "name": "contentful-starter-gatsby-blog",
-  "description": "Contentful Gatsby Starter Blog",
+  "name": "dalia-studio-blog",
+  "description": "Blog de Dalia Studio",
   "private": true,
   "version": "0.0.1",
-  "author": "Contentful <opensource@contentful.com>",
+  "author": "Martinpestanar <martinpestanar@google.com>",
   "bugs": {
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },

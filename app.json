@@ -1,11 +1,11 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "Dalia Studio",
+  "description": "Sitio Web de Dalia Studio.",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
-    "ssg"
+    "belleza",
+    "Uñas-acrilicas",
+    "Estetica",
+    "Pestañas"
   ],
   "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
   "success_url": "/",
